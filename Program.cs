@@ -6,7 +6,9 @@ namespace TwoSum
     {
         static void Main(string[] args)
         {
-           int[] nums = new int[] {2,7,11,15};
+           //array example: {2,7,11,15}
+           Console.WriteLine("Enter number array (i.e: '2,7,11,15' )");
+           int[] nums = Array.ConvertAll(Console.ReadLine().Trim().Split(','),Convert.ToInt32);
            int target = 9;
            TwoSum(nums, target);
         
