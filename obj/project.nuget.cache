@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XlmIa46aQGO0mxq6MmyhZsP2nCkZ6BS4p1Ts+/DmdrXSzLmB79fkLkHBlp6LqgixJRlDmMbV2IXeIQwldQBHow==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\LeetCode\\TwoSum\\TwoSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanaf\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hanaf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hanaf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hanaf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
