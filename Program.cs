@@ -23,7 +23,7 @@ namespace TwoSum
             //Using brute force to iterate through for loop
             //int[] res = TwoSum(nums, target);
 
-            //using  
+            //Search through dictionary  
             int[] res = TwoSum_2(nums, target);
             if (res!=null)
             {
